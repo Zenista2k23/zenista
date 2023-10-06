@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Zenista/static/css/main.be0f7e81.css",
+    "main.js": "/Zenista/static/js/main.59636bf3.js",
+    "static/media/bg.mp4": "/Zenista/static/media/bg.a3070552ea030f3c1d45.mp4",
+    "static/media/Pranyka .jpg": "/Zenista/static/media/Pranyka .55a9027b1ecd367bfd8a.jpg",
+    "static/media/koushika B V.jpg": "/Zenista/static/media/koushika B V.8f70f59def71f5436106.jpg",
+    "static/media/iceandfire2.png": "/Zenista/static/media/iceandfire2.b90a9a571aba35dea0a4.png",
+    "static/media/bgmp4.mp4": "/Zenista/static/media/bgmp4.f098976e66d7f4e4b392.mp4",
+    "static/media/name-logo.png": "/Zenista/static/media/name-logo.734158c2b5cf0e2d6575.png",
+    "static/media/jai1.jpg": "/Zenista/static/media/jai1.9d7e4e30275d5a893f61.jpg",
+    "static/media/logo.png": "/Zenista/static/media/logo.f55b7c8d75c5a5d5bd4c.png",
+    "static/media/beats.png": "/Zenista/static/media/beats.718f5823c18efcbb4483.png",
+    "static/media/Rithick 2 .jpg": "/Zenista/static/media/Rithick 2 .f19a529900202a11be98.jpg",
+    "static/media/nitin.png": "/Zenista/static/media/nitin.64028c97fdc13a0cbc19.png",
+    "static/media/sriram.png": "/Zenista/static/media/sriram.bb4aa8432b956eaa1cb8.png",
+    "static/media/Madhan N.png": "/Zenista/static/media/Madhan N.17e4bf3ba708eacfb27c.png",
+    "static/media/prakash 400x 400.jpg.png": "/Zenista/static/media/prakash 400x 400.jpg.7067491131ff46af34fa.png",
+    "static/media/Dharun.jpg": "/Zenista/static/media/Dharun.a33c55598b2e17c83ee8.jpg",
+    "static/media/scan photo 400 x 400.png": "/Zenista/static/media/scan photo 400 x 400.0675c499a8b2363606b9.png",
+    "static/media/principal.png": "/Zenista/static/media/principal.0ef6aaad54700e1cb1c9.png",
+    "static/media/sairam_ceo.png": "/Zenista/static/media/sairam_ceo.0a9b6b511fc2cf277097.png",
+    "static/media/hod.png": "/Zenista/static/media/hod.adde0fbff0f4ad07c9f1.png",
+    "static/media/Mathumitha .png": "/Zenista/static/media/Mathumitha .c3dc509093ed29de1abe.png",
+    "static/media/instagram-logo.png": "/Zenista/static/media/instagram-logo.fa0feda0dd7e009db626.png",
+    "static/media/seed.jpeg": "/Zenista/static/media/seed.e6f2b2d63d036b7329a9.jpeg",
+    "static/media/xpresso.jpeg": "/Zenista/static/media/xpresso.9ba4bd33afa59a6e42b6.jpeg",
+    "static/media/pixieland.jpeg": "/Zenista/static/media/pixieland.b79fad67aaca7f86e257.jpeg",
+    "static/media/ELECTRO.jpeg": "/Zenista/static/media/ELECTRO.2f818c1881c2a90332d6.jpeg",
+    "static/media/binary.jpeg": "/Zenista/static/media/binary.146769a6867522c945e4.jpeg",
+    "static/media/crack.jpeg": "/Zenista/static/media/crack.af1df59c257d992c83dc.jpeg",
+    "static/media/Naresh 2.jpg": "/Zenista/static/media/Naresh 2.db77cfbeade0154d8a06.jpg",
+    "static/media/Arunn3.jpg": "/Zenista/static/media/Arunn3.738accad8880ed7f6128.jpg",
+    "static/media/Priyadharshini J-ECE.jpg": "/Zenista/static/media/Priyadharshini J-ECE.3896fe2f2f4cce9f224d.jpg",
+    "index.html": "/Zenista/index.html",
+    "main.be0f7e81.css.map": "/Zenista/static/css/main.be0f7e81.css.map",
+    "main.59636bf3.js.map": "/Zenista/static/js/main.59636bf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be0f7e81.css",
+    "static/js/main.59636bf3.js"
+  ]
+}

@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,800;1,100;1,400;1,600;1,800&display=swap");
+
+#main-video{
+    transition: 0.01ms ease-in;
+}
+
+#main-video:hover{
+    border: 1px solid rgb(1, 183, 255);
+    box-shadow: 2px 2px 12px rgb(255, 149, 1);
+}

@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,500;0,800;1,100;1,400;1,600;1,800&display=swap");
+
+.Mcont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}
+
+.container {
+  display: flex;
+  margin-top: 90px;
+  justify-content: center;
+  flex-direction: row;
+  --border-width: 3px;
+  border-radius: 10px;
+
+  width: 70%;
+}
+
+.img-cont,
+.dsktp {
+  height: 80vh;
+  width: auto;
+}
+
+.event-details {
+  padding: 30px;
+  color: white;
+  font-size: 0.7rem;
+  width: 50vw;
+  background-color: #072f49;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.event-details h2 {
+  font-size: 1.8rem;
+}
+
+.container::after {
+  position: absolute;
+  content: "";
+  top: calc(12% + var(--border-width) * 0.8);
+  z-index: -1;
+  width: calc(70% + var(--border-width) * 2);
+  height: calc(82% + var(--border-width) * 2);
+  background: linear-gradient(
+    60deg,
+    #f87d4d,
+    #fada4b,
+    #cfedf8,
+    #740305,
+    #04b2f7,
+    #f3ba40,
+    #5ff281,
+    #fc4d72
+  );
+  background-size: 300% 300%;
+  background-position: 0 50%;
+  border-radius: calc(2 * var(--border-width));
+  animation: moveGradient 4s alternate infinite;
+}
+
+@keyframes moveGradient {
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.reg-btn {
+  margin-top: 40px;
+  width: 24%;
+  height: 50%;
+  border-radius: 5px;
+  background-color: aqua;
+  padding: 10px;
+}
+
+.reg-btn a {
+  font-size: "Poppins";
+  color: black;
+  font-size: 1.1rem;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 1300px) {
+  .container {
+    width: 90vw;
+    display: flex;
+    font-size: 0.8rem;
+  }
+
+  .img-cont,
+  .dsktp {
+    height: 40vw;
+    border-radius: 5px;
+  }
+
+  .container::after {
+    top: calc(10% + var(--border-width) * 0.5);
+    z-index: -1;
+    width: calc(90vw + var(--border-width) * 2);
+    height: calc(58vh + var(--border-width) * 2);
+  }
+}
+
+@media (max-width: 700px) {
+  .container {
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 10vw;
+    width: 100vw;
+  }
+
+  .container::after {
+    display: none;
+  }
+
+  .img-cont,
+  .dsktp {
+    height: 33vh;
+    width: 80vw;
+    border-radius: 5px;
+  }
+
+  .event-details {
+    font-size: 0.7rem;
+    background-color: #010114;
+    width: 80vw;
+    height: 800px;
+    justify-content: space-around;
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+
+  .event-details h1 {
+    text-align: center;
+  }
+
+  .reg-btn {
+    width: 64%;
+    height: 22%;
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 0;
+  }
+}

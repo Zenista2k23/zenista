@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zenista/static/css/main.d8dba8ba.css",
-    "main.js": "/zenista/static/js/main.9f4693a6.js",
+    "main.css": "/zenista/static/css/main.63061c5b.css",
+    "main.js": "/zenista/static/js/main.0b46671d.js",
     "static/media/bg.mp4": "/zenista/static/media/bg.a3070552ea030f3c1d45.mp4",
     "static/media/Pranyka .jpg": "/zenista/static/media/Pranyka .55a9027b1ecd367bfd8a.jpg",
     "static/media/koushika B V.jpg": "/zenista/static/media/koushika B V.8f70f59def71f5436106.jpg",
@@ -33,11 +33,11 @@
     "static/media/Arunn3.jpg": "/zenista/static/media/Arunn3.738accad8880ed7f6128.jpg",
     "static/media/Priyadharshini J-ECE.jpg": "/zenista/static/media/Priyadharshini J-ECE.3896fe2f2f4cce9f224d.jpg",
     "index.html": "/zenista/index.html",
-    "main.d8dba8ba.css.map": "/zenista/static/css/main.d8dba8ba.css.map",
-    "main.9f4693a6.js.map": "/zenista/static/js/main.9f4693a6.js.map"
+    "main.63061c5b.css.map": "/zenista/static/css/main.63061c5b.css.map",
+    "main.0b46671d.js.map": "/zenista/static/js/main.0b46671d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8dba8ba.css",
-    "static/js/main.9f4693a6.js"
+    "static/css/main.63061c5b.css",
+    "static/js/main.0b46671d.js"
   ]
 }
